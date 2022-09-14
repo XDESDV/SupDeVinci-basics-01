@@ -1,15 +1,14 @@
-# SupDeVinci-basics-01
-# Les variables dans le langage
+# Chiffre Romain en entier ~ 45 min ​
+​
 
-## Les différents types de variables
-### Types entiers
+Coder la fonction permettant de transformer un chiffre romain en son entier numérique.​
+Exemple : XXI = 21​
 
-### Types flottants
+​
 
-### Autres types numériques
-
-### Types booléens
-
-### Type string
-
-## Déclaration des variable
+Tips:​
+``
+chaine := "hello world"​
+sousChaine = chaine[1:4]   // sortie ello​
+SousChaine = chaine[6:]     // sortie world​
+``
