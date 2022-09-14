@@ -9,6 +9,6 @@ Exemple : XXI = 21​
 
 Tips:​
 
-> chaine := "hello world"
-> sousChaine = chaine[1:4]   // sortie ello​
+> chaine := "hello world" <br/>
+> sousChaine = chaine[1:4]   // sortie ello​ <br/>
 >SousChaine = chaine[6:]     // sortie world​
